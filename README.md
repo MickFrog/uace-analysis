@@ -39,8 +39,8 @@
             </tr>
             <tr>
                 <td>Owomugisha Cronnie</td>
-                <td>21/U/05910</td>
-                <td>2100705910</td>
+                <td></td>
+                <td></td>
             </tr>
         </tbody>
     </table>
